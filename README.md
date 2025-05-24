@@ -25,7 +25,7 @@
 
 ## 多周期CPU
 
-与单周期类似，先使用Vivado Simulator单独对CPU仿真，主要修改SCPU.v（PCPU.v）文件。最后testac和贪吃蛇代码正确则通过。
+与单周期类似，先使用Vivado Simulator单独对CPU仿真，主要修改SCPU.v（PCPU.v）文件。最后testac和贪吃蛇代码运行正确则通过。
 
 **一些细节**：
 

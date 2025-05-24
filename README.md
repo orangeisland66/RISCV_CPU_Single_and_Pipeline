@@ -1,6 +1,6 @@
 # RISCV_CPU_Single_and_Pipeline
  武汉大学计算机学院计算机系统基础综合设计代码
-任务分为四个部分：单周期CPU的设计、仿真与下板、多周期CPU的设计、仿真与下板、基于流水线CPU的简单应用实现、基于流水线CPU的复杂应用。
+任务分为四个部分：单周期CPU的设计仿真与下板、多周期CPU的设计仿真与下板、基于流水线CPU的简单应用实现、基于流水线CPU的复杂应用。
 # 环境
 软件环境：Vivado (Windows 11)、riscv-gnu-toolchain (Ubuntu 24.04)
 硬件环境：NEXYS A7 100T 开发板
